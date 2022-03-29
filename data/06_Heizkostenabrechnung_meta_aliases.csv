@@ -1,0 +1,11 @@
+search-term,result-term,url,wdid,aliases
+Heizkosten,,,,
+Heizenergie,Heizenergiebedarf,http://www.wikidata.org/entity/Q1601429,Q1601429,"Heizwärmebedarf, Heizbedarf, Warmwasserwärmebedarf, Trinkwasserwärmebedarf, Heiztechnikenergiebedarf, Heizenergie"
+Raumtemperatur,Raumtemperatur,http://www.wikidata.org/entity/Q111092,Q111092,"Zimmertemperatur, Rauminnentemperatur, Innentemperatur"
+Stromkosten,Strompreis,http://www.wikidata.org/entity/Q870344,Q870344,"Stromkosten, Stromtarif, Elektrizitätspreis"
+Kilowattstunde,Kilowattstunde,http://www.wikidata.org/entity/Q182098,Q182098,kWh
+Strompreis,Strompreis,http://www.wikidata.org/entity/Q870344,Q870344,"Stromkosten, Stromtarif, Elektrizitätspreis"
+Wärmeisolierung,Wärmedämmung,http://www.wikidata.org/entity/Q918306,Q918306,"Dämmebene, Wärmeisolierung, Thermische Isolierung, Fassadendämmung, Wärmeisolation"
+Gaspreis,Erdgas/Tabellen und Grafiken,http://www.wikidata.org/entity/Q1349171,Q1349171,Gaspreis
+Energieberater,Energieberater,http://www.wikidata.org/entity/Q1341241,Q1341241,Energiefachberater
+Energie sparen,,,,

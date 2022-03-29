@@ -1,0 +1,219 @@
+part,compound,similar,num_similiar
+Miet,Mietminderung,"Mietminderung, Monatsmieten, Bruttomiete, Mietrecht, Mietzahlung, Warmmiete",6
+Minderung,Mietminderung,Mietminderung,1
+Lebens,Lebensmittel,Lebensmittel,1
+Mittel,Lebensmittel,"Lebensmittel, Hilfsmittel",2
+Akkus,Akkusauger,Akkusauger,1
+Auger,Akkusauger,"Akkusauger, Staubsauger, Stielstaubsauger, Handsauger",4
+Saug,Saugleistung,"Akkusauger, Saugleistung, Saugkraft, Staubsauger, Stielstaubsauger, Handsauger, Aufsaugen",7
+Leistung,Saugleistung,Saugleistung,1
+Winter,Wintergarten,Wintergarten,1
+Garten,Wintergarten,Wintergarten,1
+Vor,Vorwerk,"Vorwerk, Vorteil, Vorlauf, Vordermann",4
+Werk,Vorwerk,Vorwerk,1
+Heiz,Heizkörper,"Heizkörper, Heizkosten, Heizenergieverbrauchs, Heizungsraum, Heizenergie, Heizwasser, Heizungsanlage",7
+Körper,Heizkörper,Heizkörper,1
+Stich,Stichprobe,"Stichprobe, Stichwort",2
+Probe,Stichprobe,Stichprobe,1
+Monats,Monatsmieten,Monatsmieten,1
+Mieten,Monatsmieten,Monatsmieten,1
+Energie,Energieberater,"Energieberater, Energiepreise, Energieverbrauchskennwert, Heizenergieverbrauchs, Heizenergie, Energiespartipps",6
+Berater,Energieberater,Energieberater,1
+Saug,Saugkraft,"Akkusauger, Saugleistung, Saugkraft, Staubsauger, Stielstaubsauger, Handsauger, Aufsaugen",7
+Kraft,Saugkraft,Saugkraft,1
+Bau,Bausubstanz,"Bausubstanz, Baulärm, Bausachverständigen",3
+Substanz,Bausubstanz,Bausubstanz,1
+Gebrauchs,Gebrauchstauglichkeit,Gebrauchstauglichkeit,1
+Tauglichkeit,Gebrauchstauglichkeit,Gebrauchstauglichkeit,1
+Brutto,Bruttomiete,Bruttomiete,1
+Miete,Bruttomiete,"Monatsmieten, Bruttomiete, Warmmiete",3
+Bau,Baulärm,"Bausubstanz, Baulärm, Bausachverständigen",3
+Lärm,Baulärm,Baulärm,1
+Warm,Warmwassertemperatur,"Warmwassertemperatur, Warmwasser, Warmmiete",3
+Wassertemperatur,Warmwassertemperatur,Warmwassertemperatur,1
+Markt,Marktcheck,Marktcheck,1
+Check,Marktcheck,"Marktcheck, Praxis-Check",2
+Gas,Gasrechnung,"Gasrechnung, Gaspreise, Gasverbrauch, Gaspreisen",4
+Rechnung,Gasrechnung,"Gasrechnung, Verbrauchsabrechnungen",2
+Kilowatt,Kilowattstunde,Kilowattstunde,1
+Stunde,Kilowattstunde,Kilowattstunde,1
+Warm,Warmwasser,"Warmwassertemperatur, Warmwasser, Warmmiete",3
+Wasser,Warmwasser,"Warmwassertemperatur, Warmwasser, Heizwasser, Abwasserkosten",4
+Durchschnitts,Durchschnittsverbrauch,Durchschnittsverbrauch,1
+Verbrauch,Durchschnittsverbrauch,"Durchschnittsverbrauch, Verbraucherzentrale, Gasverbrauch, Verbrauchsabrechnungen, Energieverbrauchskennwert, Verbrauch, Heizenergieverbrauchs",7
+Wärme,Wärmeübertragung,"Wärmeübertragung, Wärmeverlustfaktor",2
+Übertragung,Wärmeübertragung,Wärmeübertragung,1
+Raum,Raumtemperatur,"Raumtemperatur, Heizungsraum",2
+Temperatur,Raumtemperatur,"Warmwassertemperatur, Raumtemperatur, Temperaturunterschied",3
+Wohn,Wohnzimmer,Wohnzimmer,1
+Zimmer,Wohnzimmer,Wohnzimmer,1
+Heiz,Heizkosten,"Heizkörper, Heizkosten, Heizenergieverbrauchs, Heizungsraum, Heizenergie, Heizwasser, Heizungsanlage",7
+Kosten,Heizkosten,"Heizkosten, Abwasserkosten",2
+Luft,Luftfeuchtigkeit,"Luftfeuchtigkeit, Luftumwälzung",2
+Feuchtigkeit,Luftfeuchtigkeit,Luftfeuchtigkeit,1
+Staubs,Staubsauger,"Staubsauger, Stielstaubsauger",2
+Auger,Staubsauger,"Akkusauger, Staubsauger, Stielstaubsauger, Handsauger",4
+Staub,Staubbehälter,"Staubsauger, Staubbehälter, Stielstaubsauger",3
+Behälter,Staubbehälter,Staubbehälter,1
+Vor,Vorteil,"Vorwerk, Vorteil, Vorlauf, Vordermann",4
+Teil,Vorteil,Vorteil,1
+Stich,Stichwort,"Stichprobe, Stichwort",2
+Wort,Stichwort,Stichwort,1
+Miet,Mietrecht,"Mietminderung, Monatsmieten, Bruttomiete, Mietrecht, Mietzahlung, Warmmiete",6
+Recht,Mietrecht,Mietrecht,1
+Räumungs,Räumungsklage,Räumungsklage,1
+Klage,Räumungsklage,Räumungsklage,1
+Nach,Nachbar,"Nachbar, Nachzahlung, Nachtabsenkung",3
+Bar,Nachbar,Nachbar,1
+Ein,Einschätzung,"Einschätzung, Einzelfall, Einfamilienhaus",3
+Schätzung,Einschätzung,Einschätzung,1
+Miet,Mietzahlung,"Mietminderung, Monatsmieten, Bruttomiete, Mietrecht, Mietzahlung, Warmmiete",6
+Zahlung,Mietzahlung,"Mietzahlung, Nachzahlung",2
+Amts,Amtsgericht,Amtsgericht,1
+Gericht,Amtsgericht,Amtsgericht,1
+Bau,Bausachverständigen,"Bausubstanz, Baulärm, Bausachverständigen",3
+Sachverständigen,Bausachverständigen,Bausachverständigen,1
+Treppen,Treppenhaus,Treppenhaus,1
+Haus,Treppenhaus,"Treppenhaus, Einfamilienhaus, 140-Quadratmeter-Haus",3
+Einzel,Einzelfall,Einzelfall,1
+Fall,Einzelfall,Einzelfall,1
+Auf,Aufzug,"Aufzug, Vorlauf, Aufsaugen",3
+Zug,Aufzug,Aufzug,1
+Warm,Warmmiete,"Warmwassertemperatur, Warmwasser, Warmmiete",3
+Miete,Warmmiete,"Monatsmieten, Bruttomiete, Warmmiete",3
+Pas,Passant,Passant,1
+Sant,Passant,Passant,1
+Bon,Bonbon,Bonbon,1
+Bon,Bonbon,Bonbon,1
+Über,Überdosierung,"Wärmeübertragung, Überdosierung",2
+Dosierung,Überdosierung,Überdosierung,1
+Mineral,Mineralstoffe,Mineralstoffe,1
+Stoffe,Mineralstoffe,Mineralstoffe,1
+Nährstoff,Nährstoffbedarf,Nährstoffbedarf,1
+Bedarf,Nährstoffbedarf,Nährstoffbedarf,1
+Fertig,Fertigprodukte,Fertigprodukte,1
+Produkte,Fertigprodukte,Fertigprodukte,1
+Bundes,Bundesministerium,Bundesministerium,1
+Ministerium,Bundesministerium,Bundesministerium,1
+Land,Landwirtschaft,Landwirtschaft,1
+Wirtschaft,Landwirtschaft,Landwirtschaft,1
+Beispiel,Beispielmenü,Beispielmenü,1
+Menü,Beispielmenü,Beispielmenü,1
+Verbraucher,Verbraucherzentrale,Verbraucherzentrale,1
+Zentrale,Verbraucherzentrale,Verbraucherzentrale,1
+Energie,Energiepreise,"Energieberater, Energiepreise, Energieverbrauchskennwert, Heizenergieverbrauchs, Heizenergie, Energiespartipps",6
+Preise,Energiepreise,"Energiepreise, Gaspreise, Gaspreisen",3
+Hilfs,Hilfsmittel,Hilfsmittel,1
+Mittel,Hilfsmittel,"Lebensmittel, Hilfsmittel",2
+Geld,Geldbeutel,Geldbeutel,1
+Beutel,Geldbeutel,Geldbeutel,1
+Kriegs,Kriegskasse,Kriegskasse,1
+Kasse,Kriegskasse,Kriegskasse,1
+Win,Win-win,"Wintergarten, Win-win",2
+Win,Win-win,"Wintergarten, Win-win",2
+Einfamilien,Einfamilienhaus,Einfamilienhaus,1
+Haus,Einfamilienhaus,"Treppenhaus, Einfamilienhaus, 140-Quadratmeter-Haus",3
+Gas,Gaspreise,"Gasrechnung, Gaspreise, Gasverbrauch, Gaspreisen",4
+Preise,Gaspreise,"Energiepreise, Gaspreise, Gaspreisen",3
+Nach,Nachzahlung,"Nachbar, Nachzahlung, Nachtabsenkung",3
+Zahlung,Nachzahlung,"Mietzahlung, Nachzahlung",2
+Ukraine,Ukraine-Krieg,Ukraine-Krieg,1
+Krieg,Ukraine-Krieg,"Kriegskasse, Ukraine-Krieg",2
+140-Quadratmeter,140-Quadratmeter-Haus,140-Quadratmeter-Haus,1
+Haus,140-Quadratmeter-Haus,"Treppenhaus, Einfamilienhaus, 140-Quadratmeter-Haus",3
+60Er,60er-Jahren,60er-Jahren,1
+Jahren,60er-Jahren,60er-Jahren,1
+Gas,Gasverbrauch,"Gasrechnung, Gaspreise, Gasverbrauch, Gaspreisen",4
+Verbrauch,Gasverbrauch,"Durchschnittsverbrauch, Verbraucherzentrale, Gasverbrauch, Verbrauchsabrechnungen, Energieverbrauchskennwert, Verbrauch, Heizenergieverbrauchs",7
+Verbrauchs,Verbrauchsabrechnungen,"Verbrauchsabrechnungen, Energieverbrauchskennwert, Heizenergieverbrauchs",3
+Abrechnungen,Verbrauchsabrechnungen,Verbrauchsabrechnungen,1
+Energieverbrauchs,Energieverbrauchskennwert,"Energieverbrauchskennwert, Heizenergieverbrauchs",2
+Kennwert,Energieverbrauchskennwert,Energieverbrauchskennwert,1
+Feuerzeug,Feuerzeugtest,Feuerzeugtest,1
+Test,Feuerzeugtest,Feuerzeugtest,1
+Rot,rotlila,"rotlila, Brotkrümel",2
+Lila,rotlila,rotlila,1
+Fenster,Fensterbrett,"Fensterbrett, Fensterbank",2
+Brett,Fensterbrett,Fensterbrett,1
+Fenster,Fensterbank,"Fensterbrett, Fensterbank",2
+Bank,Fensterbank,Fensterbank,1
+Luft,Luftumwälzung,"Luftfeuchtigkeit, Luftumwälzung",2
+Umwälzung,Luftumwälzung,Luftumwälzung,1
+Zenti,Zentimeter,Zentimeter,1
+Meter,Zentimeter,"140-Quadratmeter-Haus, Zentimeter",2
+Verbr,Verbrauch,"Durchschnittsverbrauch, Verbraucherzentrale, Gasverbrauch, Verbrauchsabrechnungen, Energieverbrauchskennwert, Verbrauch, Heizenergieverbrauchs",7
+Auch,Verbrauch,"Gebrauchstauglichkeit, Durchschnittsverbrauch, Verbraucherzentrale, Gasverbrauch, Verbrauchsabrechnungen, Energieverbrauchskennwert, Verbrauch, Heizenergieverbrauchs",8
+Papp,Pappkarton,Pappkarton,1
+Karton,Pappkarton,Pappkarton,1
+Wärmeverlust,Wärmeverlustfaktor,Wärmeverlustfaktor,1
+Faktor,Wärmeverlustfaktor,Wärmeverlustfaktor,1
+Heiz,Heizenergieverbrauchs,"Heizkörper, Heizkosten, Heizenergieverbrauchs, Heizungsraum, Heizenergie, Heizwasser, Heizungsanlage",7
+Energieverbrauchs,Heizenergieverbrauchs,"Energieverbrauchskennwert, Heizenergieverbrauchs",2
+Gas,Gaspreisen,"Gasrechnung, Gaspreise, Gasverbrauch, Gaspreisen",4
+Preisen,Gaspreisen,Gaspreisen,1
+Jahres,Jahreszeit,Jahreszeit,1
+Zeit,Jahreszeit,Jahreszeit,1
+Übel,Übeltäter,Übeltäter,1
+Täter,Übeltäter,Übeltäter,1
+Heizungs,Heizungsraum,"Heizungsraum, Heizungsanlage",2
+Raum,Heizungsraum,"Raumtemperatur, Heizungsraum",2
+Voll,Volltreffer,Volltreffer,1
+Treffer,Volltreffer,Volltreffer,1
+Vor,Vorlauf,"Vorwerk, Vorteil, Vorlauf, Vordermann",4
+Lauf,Vorlauf,Vorlauf,1
+Temperatur,Temperaturunterschied,"Warmwassertemperatur, Raumtemperatur, Temperaturunterschied",3
+Unterschied,Temperaturunterschied,Temperaturunterschied,1
+Heiz,Heizenergie,"Heizkörper, Heizkosten, Heizenergieverbrauchs, Heizungsraum, Heizenergie, Heizwasser, Heizungsanlage",7
+Energie,Heizenergie,"Energieberater, Energiepreise, Energieverbrauchskennwert, Heizenergieverbrauchs, Heizenergie, Energiespartipps",6
+Heiz,Heizwasser,"Heizkörper, Heizkosten, Heizenergieverbrauchs, Heizungsraum, Heizenergie, Heizwasser, Heizungsanlage",7
+Wasser,Heizwasser,"Warmwassertemperatur, Warmwasser, Heizwasser, Abwasserkosten",4
+Heizungs,Heizungsanlage,"Heizungsraum, Heizungsanlage",2
+Anlage,Heizungsanlage,Heizungsanlage,1
+Spar,Sparpotenziale,"Sparpotenziale, Energiespartipps",2
+Potenziale,Sparpotenziale,Sparpotenziale,1
+Runter,runterstellen,"Temperaturunterschied, runterstellen",2
+Stellen,runterstellen,runterstellen,1
+Nacht,Nachtabsenkung,Nachtabsenkung,1
+Absenkung,Nachtabsenkung,Nachtabsenkung,1
+Dusch,Duschköpfe,"Duschköpfe, Zehn-Minuten-Dusche",2
+Köpfe,Duschköpfe,Duschköpfe,1
+Zehn-Minuten,Zehn-Minuten-Dusche,Zehn-Minuten-Dusche,1
+Dusche,Zehn-Minuten-Dusche,Zehn-Minuten-Dusche,1
+Abwasser,Abwasserkosten,Abwasserkosten,1
+Kosten,Abwasserkosten,"Heizkosten, Abwasserkosten",2
+Schimmel,Schimmelschutz,Schimmelschutz,1
+Schutz,Schimmelschutz,Schimmelschutz,1
+Energiespar,Energiespartipps,Energiespartipps,1
+Tipps,Energiespartipps,Energiespartipps,1
+Freitag,Freitagmorgen,Freitagmorgen,1
+Morgen,Freitagmorgen,Freitagmorgen,1
+Hen,Hengen,Hengen,1
+Gen,Hengen,"Bausachverständigen, Verbrauchsabrechnungen, Freitagmorgen, Hengen, raustragen, Aufsaugen",6
+Vorder,Vordermann,Vordermann,1
+Mann,Vordermann,Vordermann,1
+Raus,raustragen,raustragen,1
+Tragen,raustragen,raustragen,1
+Katzen,Katzenhaare,Katzenhaare,1
+Haare,Katzenhaare,"Katzenhaare, Tierhaare",2
+Preis,Preisklassen,"Energiepreise, Gaspreise, Gaspreisen, Preisklassen, Preisklasse",5
+Klassen,Preisklassen,Preisklassen,1
+Praxis,Praxis-Check,Praxis-Check,1
+Check,Praxis-Check,"Marktcheck, Praxis-Check",2
+Stiel,Stielstaubsauger,Stielstaubsauger,1
+Staubsauger,Stielstaubsauger,"Staubsauger, Stielstaubsauger",2
+Hands,Handsauger,Handsauger,1
+Auger,Handsauger,"Akkusauger, Staubsauger, Stielstaubsauger, Handsauger",4
+Preis,Preisklasse,"Energiepreise, Gaspreise, Gaspreisen, Preisklassen, Preisklasse",5
+Klasse,Preisklasse,"Preisklassen, Preisklasse",2
+Tier,Tierhaare,Tierhaare,1
+Haare,Tierhaare,"Katzenhaare, Tierhaare",2
+Brot,Brotkrümel,Brotkrümel,1
+Krümel,Brotkrümel,Brotkrümel,1
+Papier,Papierschnipsel,Papierschnipsel,1
+Schnipsel,Papierschnipsel,Papierschnipsel,1
+Plus,Pluspunkt,Pluspunkt,1
+Punkt,Pluspunkt,Pluspunkt,1
+Auf,Aufsaugen,"Aufzug, Vorlauf, Aufsaugen",3
+Saugen,Aufsaugen,Aufsaugen,1
+Laser,Laserbürste,Laserbürste,1
+Bürste,Laserbürste,Laserbürste,1
