@@ -51,7 +51,7 @@ def do_orgas_or_miscs(orgas_or_miscs="ORG"):
     pd.options.display.float_format = '{:,.0f}'.format
     out = out.sort_values(by=['count'], ascending=False)
 
-    out.to_csv(data_folder + '04_' + 'cleaned_' + orgas_or_miscs + '.csv', index=False)
+    out.to_csv(data_folder + '04_' + name + '_' + orgas_or_miscs + '.csv', index=False)
     return out
 
 

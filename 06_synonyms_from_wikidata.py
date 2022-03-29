@@ -1,6 +1,12 @@
-#01_get_wikidata_ids.py
-# see https://wikifier.org/info.html
+"""
+wikifikation via SPARQL queries. 
+set the file with terms to be used in the queries
+- file ./data/Heizkosten_Begriffe.txt is manually composed 
+- file ./data/keywords_from_webseite.txt is taken from meta-keywords from page https://www.swrfernsehen.de/marktcheck/sendungen/sendung-vom-8-maerz-2022-104.html
+produces a CSV-File with columns ['search-term','result-term','url','wdid','aliases']
+wdid: Wikidata ID
 
+"""
 import os
 import urllib.parse, urllib.request, json
 import pandas as pd
@@ -13,7 +19,7 @@ load_dotenv()
 
 extracted_text_file = os.environ.get('extracted_text_file')
 data_folder = os.environ.get('data_folder')
-name = extracted_text_file.replace('.txt','');
+name = extracted_text_file.replace('.txt', '')
 
 # some experimenting
 file = './data/Heizkosten_Begriffe.txt'
@@ -24,12 +30,13 @@ sparql = SPARQLWrapper(
 )
 sparql.setReturnFormat(JSON)
 
-# 1st option, query by preflabel
-def sparql_get_synonyms_by_preflabel (word):
-    query = """SELECT ?item ?prefLabel ?altLabel WHERE {     
-      values ?prefLabel {"%s"@de}     
-      ?item rdfs:label ?prefLabel ;     
-      skos:altLabel ?altLabel . 
+
+def sparql_get_synonyms_by_preflabel(word):
+    """1st option, query by preflabel."""
+    query = """SELECT ?item ?prefLabel ?altLabel WHERE {
+      values ?prefLabel {"%s"@de}
+      ?item rdfs:label ?prefLabel;
+      skos:altLabel ?altLabel .
       FILTER (lang(?altLabel)='de')
     }""" % (word)
     sparql.setQuery(query)
@@ -38,7 +45,8 @@ def sparql_get_synonyms_by_preflabel (word):
     return results['results']
 
 
-def sparql_get_wdid_by_label (word):
+def sparql_get_wdid_by_label(word):
+    """Other query return wdid also."""
     query = """SELECT distinct ?item ?itemLabel WHERE{  
       ?item ?label "%s"@de.  
       ?article schema:about ?item .
@@ -51,8 +59,10 @@ def sparql_get_wdid_by_label (word):
     # print(results)
     return results['results']
 
-def wikidata_entry_by_wdid (wdid):
-    response = requests.get('https://www.wikidata.org/wiki/Special:EntityData/'+wdid+'.json')
+
+def wikidata_entry_by_wdid(wdid):
+    """Wikidata info of a term / wdid."""
+    response = requests.get('https://www.wikidata.org/wiki/Special:EntityData/' + wdid + '.json')
     return json.loads(response.text)
 
 with open(file) as f:
@@ -61,8 +71,8 @@ with open(file) as f:
 # words = lines[0].split(',')
 words = lines
 
-columns = ['search-term','result-term','url','wdid','aliases']
-count = 0;
+columns = ['search-term', 'result-term', 'url', 'wdid', 'aliases']
+count = 0
 rows = []
 for word in words:
     print('--------')
@@ -92,6 +102,6 @@ for word in words:
     count += 1
 
 df = pd.DataFrame(rows, columns=columns)
-df.to_csv(data_folder+'06_'+name+'_meta_aliases.csv',index=False)
+df.to_csv(data_folder + '06_' + name + '_wikification_aliases.csv', index=False)
 print(df)
 

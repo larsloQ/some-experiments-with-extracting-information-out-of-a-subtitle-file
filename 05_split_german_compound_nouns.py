@@ -51,7 +51,6 @@ compounds.to_csv(data_folder + '05_' + name + '_compounds.csv', index=False)
 
 columns = ['part', 'compound', 'similar', 'num_similiar']
 rows = []
-# # boolean_finding = df['a'].str.contains('diana').any()
 for index, orow in compounds.iterrows():
     # count how often each part is in whole df
     p1 = orow['part_1']

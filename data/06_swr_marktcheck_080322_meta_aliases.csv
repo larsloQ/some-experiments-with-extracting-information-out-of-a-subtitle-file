@@ -1,5 +1,57 @@
 search-term,result-term,url,wdid,aliases
-"Akkusauger, Saugleistung, Saugkraft, Staubsauger, Stielstaubsauger, Handsauger, Aufsaugen",,,,
-"Durchschnittsverbrauch, Verbraucherzentrale, Gasverbrauch, Verbrauchsabrechnungen, Energieverbrauchskennwert, Verbrauch, Heizenergieverbrauchs",,,,
-"Gebrauchstauglichkeit, Durchschnittsverbrauch, Verbraucherzentrale, Gasverbrauch, Verbrauchsabrechnungen, Energieverbrauchskennwert, Verbrauch, Heizenergieverbrauchs",,,,
-"Heizkörper, Heizkosten, Heizenergieverbrauchs, Heizungsraum, Heizenergie, Heizwasser, Heizungsanlage",,,,
+140-Quadratmeter-Haus,,,,
+Abwasserkosten,,,,
+Akkusauger,,,,
+Aufsaugen,,,,
+Aufzug,Akt,http://www.wikidata.org/entity/Q421744,Q421744,"Zweiakter, Dreiakter, Vierakter, Fünfakter, Sechsakter, Siebenakter, Achtakter, Neunakter, Zehnakter, Aufzug"
+Baulärm,Baustellenlärm,http://www.wikidata.org/entity/Q811888,Q811888,Baulärm
+Bausachverständigen,,,,
+Brotkrümel,,,,
+Durchschnittsverbrauch,,,,
+Duschköpfe,,,,
+Einfamilienhaus,Einfamilienwohnhaus,http://www.wikidata.org/entity/Q1307276,Q1307276,"Einfamilienhaus, Eigenheim, Familienhaus"
+Einschätzung,,,,
+Energieberater,Energieberater,http://www.wikidata.org/entity/Q1341241,Q1341241,Energiefachberater
+Energiepreise,,,,
+Energiespartipps,,,,
+Energieverbrauchskennwert,Energieverbrauchskennwert,http://www.wikidata.org/entity/Q1341455,Q1341455,"Energiekennzahl, Heizenergieverbrauchskennwert, Stromverbrauchskennwert"
+Fensterbank,Fensterbank,http://www.wikidata.org/entity/Q1391592,Q1391592,"Fensterbrett, Fensterbord, Sims"
+Fensterbrett,Fensterbank,http://www.wikidata.org/entity/Q1391592,Q1391592,"Fensterbrett, Fensterbord, Sims"
+Freitagmorgen,,,,
+Gaspreise,,,,
+Gaspreisen,,,,
+Gasrechnung,,,,
+Gasverbrauch,,,,
+Gebrauchstauglichkeit,Gebrauchstauglichkeit,http://www.wikidata.org/entity/Q216378,Q216378,"Usability, Prozessangemessenheit, Usable, Benutzbarkeitsrichtlinien"
+Handsauger,,,,
+Heizenergie,Heizenergiebedarf,http://www.wikidata.org/entity/Q1601429,Q1601429,"Heizwärmebedarf, Heizbedarf, Warmwasserwärmebedarf, Trinkwasserwärmebedarf, Heiztechnikenergiebedarf, Heizenergie"
+Heizenergieverbrauchs,,,,
+Heizkosten,,,,
+Heizkörper,Heizkörper,http://www.wikidata.org/entity/Q1572702,Q1572702,Heizkörperexponent
+Heizungsanlage,Heizung,http://www.wikidata.org/entity/Q3588251,Q3588251,"Beheizungsgerät, Heizungsgerät, Beheizgerät, Wärmegerät, Wärmeerzeuger, Wärmequelle, Wärmeanlage, Heizungsanlage"
+Heizungsraum,,,,
+Heizwasser,,,,
+Hilfsmittel,Hilfsmittel,http://www.wikidata.org/entity/Q688498,Q688498,"Assistierende Technologie, Hilfsmittel für Menschen mit Körperbehinderung, Hilfsmittelversorgung, Assistive Technologie, Hilfsmittel in der Rehabilitation, Hilfsmittel aus der Rehabilitation"
+Lebensmittel,Lebensmittel,http://www.wikidata.org/entity/Q2095,Q2095,"Viktualien, Essen"
+Mietminderung,Mietvertrag,http://www.wikidata.org/entity/Q1932287,Q1932287,"Mieter, Vermieter, Mietzins, Mietminderung, Mietrecht, Mietkürzung, Vermietung"
+Mietrecht,Mietvertrag,http://www.wikidata.org/entity/Q1932287,Q1932287,"Mieter, Vermieter, Mietzins, Mietminderung, Mietrecht, Mietkürzung, Vermietung"
+Mietzahlung,,,,
+Monatsmieten,,,,
+Preisklasse,Preisklasse,http://www.wikidata.org/entity/Q550637,Q550637,"Bahnhofskategorisierung, Bahnhofsklasse, Bahnhofskategorie"
+Preisklassen,,,,
+Raumtemperatur,Raumtemperatur,http://www.wikidata.org/entity/Q111092,Q111092,"Zimmertemperatur, Rauminnentemperatur, Innentemperatur"
+Saugleistung,,,,
+Staubbehälter,,,,
+Staubsauger,Staubsauger,http://www.wikidata.org/entity/Q101674,Q101674,"Bodenstaubsauger, Industriestaubsauger, Allessauger, Handstaubsauger, Kesselsauger"
+Stielstaubsauger,,,,
+Temperaturunterschied,,,,
+Verbraucherzentrale,Verbraucherzentrale,http://www.wikidata.org/entity/Q2514275,Q2514275,"Verbraucherzentralen, Verbraucherschutzzentrale"
+Verbrauchsabrechnungen,,,,
+Vordermann,,,,
+Warmmiete,,,,
+Warmwassertemperatur,,,,
+Zehn-Minuten-Dusche,,,,
+Zentimeter,Zentimeter,http://www.wikidata.org/entity/Q174728,Q174728,"Centimeter, cm"
+raustragen,,,,
+rotlila,,,,
+runterstellen,,,,
