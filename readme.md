@@ -1,19 +1,22 @@
 # some experiments with extracting information out of a subtitle file
 
-Each file here produces one ore more *.csv* files into *data* folder.
+applying some NLP tools and techniques to a subtitle-file
+
+Each file here produces one or more *.csv* files into *data* folder.
 These files usually are used in subsequent files. So make sure to run files in chronological order.
 For further info see inline-documenation.
 
-See jupyter notebook for some interpreations of results (in German)
+See jupyter notebook (**information_extraction_from_subtitle_file.ipynb**) 
+for some results and interpreations (in German)
 
 
-## Howto
+## Install 
 - install requirements (python -m pip install -r requirements.txt) 
-- setup .env variable
+- setup .env variables
 - run files in chronological order
 
 ## Adjust *.env* settings
-subtitles_url           = a url to a xml.subtitles file 
+subtitles_url           = a url to a subtitles.xml. file 
 extracted_text_file     = filename of extracted contents 
 data_folder             = folder where data lives, usually './data/', keep trailing slash
 
